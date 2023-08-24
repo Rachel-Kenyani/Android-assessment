@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assessement</string>
+    <string name="title">Title</string>
+    <string name="body">Body</string>
+    <string name="textview">TextView</string>
+    <string name="colon">:</string>
+</resources>
